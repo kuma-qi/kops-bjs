@@ -1,3 +1,12 @@
+# NOTICE - This project will no longer be maintained, please go to [pahud/kops-cn](https://github.com/pahud/kops-cn) instead.
+
+
+
+
+
+
+
+
 # Kops-BJS
 
 This tutorial will walk you through building a Kubernetes cluster with [Kops](https://github.com/kubernetes/kops) in AWS Beijing or NingXia Region.
